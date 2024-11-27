@@ -29,7 +29,7 @@
     "@nuxtjs/auth": "^4.9.1",
     "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/dotenv": "^1.4.0",
-    "apexcharts": "^3.19.2",
+    "apexcharts": "^3.24.0",
     "axios": "^0.19.2",
     "cookie-universal-nuxt": "^2.1.4",
     "cross-env": "^7.0.0",
